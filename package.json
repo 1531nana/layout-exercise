@@ -1,0 +1,19 @@
+{
+  "name": "exercises-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve src/"
+  },
+  "dependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/plugin-transform-modules-commonjs": "^7.6.0",
+    "htmlhint": "^1.0.0",
+    "opener": "^1.5.1",
+    "serve": "^13.0.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
